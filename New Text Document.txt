@@ -1,0 +1,114 @@
+<div class="fc-container--rolled-up-hide fc-container__body fc-show-more--hidden">
+					<div class="fc-slice-wrapper">
+						<ul class="u-unstyled row">
+							<li class="fc-slice__item  row">
+								<div class="fc-item  fc-item--pillar-news" >
+									<div class="fc-item__container">
+										<div class="fc-item__media-wrapper">
+											<div class="fc-item__image-container u-responsive-ratio inlined-image">
+												<picture>
+													<img class="responsive-img" alt="" src="https://i.guim.co.uk/img/media/005388fc3afede79e5985ba07c08a76bc4ae47e9/70_72_5253_3152/master/5253.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4014aa8668773c88528adc0ff6aa77a">
+												</picture>
+											</div>
+										</div>
+
+										<div class="fc-item__content ">
+											<div class="fc-item__header">
+												<h3 class="fc-item__title">
+													<a href="https://www.theguardian.com/politics/2019/mar/07/uk-should-offer-new-brexit-proposal-french-europe-minister-says" class="fc-item__link" data-link-name="article">
+														<span class="fc-item__kicker">Brexit</span> 
+														<span class="u-faux-block-link__cta fc-item__headline"> 
+															<span class="js-headline-text">UK should offer new proposal, French Europe minister says</span>
+														</span>
+													</a>
+												</h3>
+											</div>
+											<div class="fc-item__standfirst-wrapper">
+												<div class="fc-item__standfirst">
+													Nathalie Loiseau says ‘clock is ticking’ as she prepares to meet UK Brexit secretary
+												</div>
+												<div class="fc-item__meta js-item__meta">
+												</div>
+											</div>
+											<div class="fc-item__footer--horizontal" aria-hidden="true">
+												<ul class="fc-sublinks u-unstyled u-faux-block-link__promote">
+													<li class="fc-sublink fc-sublink--pillar-news fc-sublink--type-article" data-link-name="sublinks | 1"> 
+														<h4 class="fc-sublink__title"> 
+															<a href="https://www.theguardian.com/politics/2019/mar/06/no-sign-of-progress-after-robust-brexit-talks-in-brussels" class="fc-sublink__link" data-link-name="article">
+																<span class="fc-sublink__kicker">Meaningful vote</span>
+																Talks stall but No 10 sticks with Tuesday
+															</a> 
+														</h4> 
+													</li>
+													<li class="fc-sublink fc-sublink--pillar-news fc-sublink--type-article" data-link-name="sublinks | 2"> 
+														<h4 class="fc-sublink__title"> 
+															<a href="https://www.theguardian.com/politics/2019/mar/06/common-market-20-jeremy-corbyn-talks-to-former-tory-ministers" class="fc-sublink__link" data-link-name="article">
+																<span class="fc-sublink__kicker">Norway-style Brexit</span> 
+																Corbyn talks to former Tory ministers
+															</a> 
+														</h4> 
+													</li>
+													<li class="fc-sublink fc-sublink--pillar-news fc-sublink--type-article" data-link-name="sublinks | 3"> 
+														<h4 class="fc-sublink__title"> 
+															<a href="https://www.theguardian.com/world/2019/mar/06/brexit-is-a-huge-help-to-irish-republicanism-says-dissident-leader" class="fc-sublink__link" data-link-name="article">
+																<span class="fc-sublink__kicker">Ireland</span> 
+																Brexit a 'huge help', says dissident leader
+															</a> 
+														</h4> 
+													</li>
+												</ul>
+											</div>
+										</div>
+									
+										<a href="https://www.theguardian.com/politics/2019/mar/07/uk-should-offer-new-brexit-proposal-french-europe-minister-says" class="u-faux-block-link__overlay js-headline-text" data-link-name="article" tabindex="-1" aria-hidden="true">
+										UK should offer new proposal, French Europe minister says
+										</a>
+									</div>
+								</div> 
+							</li>
+								
+							<li class="fc-slice__item l-row__item l-row__item--span-1 u-faux-block-link">
+															
+							<div class="fc-item fc-item--force-image-upgrade fc-item--has-image fc-item--pillar-news fc-item--type-immersive js-fc-item fc-item--list-media-mobile fc-item--standard-tablet js-snappable" data-link-name="news | group-2 | card-@2" data-item-visibility="all" data-test-id="facia-card" data-id="world/2019/mar/07/thursday-briefing-microplastic-scourge-spreads-everywhere" data-loyalty-short-url="/p/bv9ek">
+																
+								<div class="fc-item__container">
+																	
+									<div class="fc-item__media-wrapper">
+
+										<div class="fc-item__image-container u-responsive-ratio inlined-image">
+
+											<picture>
+												<!--[if IE 9]><video style="display: none;"><![endif]-->
+												<source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" sizes="220px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=220&amp;quality=45&amp;auto=format&amp;fit=max&amp;dpr=2&amp;s=954d601f14e28ea40ab8f7dff6abeb6f 440w">
+												<source media="(min-width: 980px)" sizes="220px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=220&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31800faf28c49b4619e0bcc86eac5d83 220w">
+												<source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" sizes="160px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=160&amp;quality=45&amp;auto=format&amp;fit=max&amp;dpr=2&amp;s=06fdd2850893d86917c53b46fd29f579 320w">
+												<source media="(min-width: 740px)" sizes="160px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=160&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f90a74c4ccfde10666f8bc313c3cc373 160w">
+												<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="127px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=127&amp;quality=45&amp;auto=format&amp;fit=max&amp;dpr=2&amp;s=0954f2bcc329bbd4699441330987c031 254w">
+												<source media="(min-width: 0px)" sizes="127px" srcset="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=127&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f7672fd7f5966e1f3985d0e8b5689fb 127w">
+												<!--[if IE 9]></video><![endif]-->
+												<img class="responsive-img" alt="" src="https://i.guim.co.uk/img/media/b0dda934c22bca6969f04231797227eecc4d1b17/0_250_4000_2400/master/4000.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bfe1e099e31a16a960f060e625893ff7">
+											</picture>
+												
+											</div>
+										</div>
+								
+										<div class="fc-item__content ">
+											<div class="fc-item__header">
+												<h3 class="fc-item__title"><a href="https://www.theguardian.com/world/2019/mar/07/thursday-briefing-microplastic-scourge-spreads-everywhere" class="fc-item__link" data-link-name="article"><span class="fc-item__kicker">Guardian morning briefing</span> <span class="u-faux-block-link__cta fc-item__headline"> <span class="js-headline-text">Microplastic scourge spreading everywhere. Get up to speed on all the news</span></span> </a></h3>
+											</div>
+											<div class="fc-item__standfirst-wrapper">
+												<div class="fc-item__standfirst">
+													Toll on human health may not become clear for decades … Theresa May ranked as ‘populist’ world leader … and why anti-Zionist is not antisemitic
+												</div>
+												<div class="fc-item__meta js-item__meta">
+												</div>
+											</div>
+										</div>
+										<a href="https://www.theguardian.com/world/2019/mar/07/thursday-briefing-microplastic-scourge-spreads-everywhere" class="u-faux-block-link__overlay js-headline-text" data-link-name="article" tabindex="-1" aria-hidden="true">Microplastic scourge spreading everywhere. Get up to speed on all the news</a>
+									</div>
+								</div> 
+
+								</li>
+							</ul>
+						</div>
+					</div>

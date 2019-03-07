@@ -1,0 +1,760 @@
+.l-side-margins {
+    position: relative;
+    height: 100%;
+}
+
+.facia-page, .index-page {
+    background-color: #ffffff;
+}
+
+.u-h {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 0.0625rem !important;
+    margin: -0.0625rem !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 0.0625rem !important;
+}
+
+/* Banner stylesheet starts from there*/
+
+
+.new-header {
+    background-color: #052962;
+    position: relative;
+}
+
+.new-header:not(.new-header--slim) {
+    margin-bottom: 0;
+}
+
+@media (min-width: 46.25em)
+.new-header {
+    display: block;
+}
+
+.gs-container {
+    position: relative;
+    margin: 0 auto;
+}
+
+.new-header__inner{zoom:1}
+
+.new-header__inner:after {
+    clear: both;
+}
+
+.new-header__inner:after, .new-header__inner:before {
+    content: '';
+    display: table;
+}
+
+.new-header__inner:after, .new-header__inner:before {
+    content: '';
+    display: table;
+}
+
+@media (min-width: 46.25em)
+.gs-container {
+    max-width: 46.25rem;
+}
+
+.new-header__logo {
+    float: right;
+    margin-top: 0.625rem;
+    margin-right: 3.375rem;
+    margin-bottom: 1.5rem;
+}
+
+.u-h {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 0.0625rem !important;
+    margin: -0.0625rem !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 0.0625rem !important;
+}
+
+/*.inline-the-guardian-logo__svg {
+    display: block;
+    height: 2.75rem;
+    width: 8.4375rem;
+}*/
+
+.inline-the-guardian-logo__svg{display:block;height:44px;width:135px;height:56px;width:175px;height:72px;width:224px;height:95px;width:295px}
+.inline-the-guardian-logo__svg path{fill:#fff}
+
+.new-header__cta-bar{position:absolute;top:30px;left:10px;top:37px;left:20px;top:0;max-width:300px}
+
+.cta-bar__text {
+    display: block;
+    margin: 0.1875rem 0 0.5625rem;
+}
+
+.cta-bar__heading {
+    color: #ff7f0f;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.cta-bar__subheading {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-top: 0.1875rem;
+}
+
+.cta-bar__cta {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 700;
+    background-color: #ff7f0f;
+    border-radius: 1.125rem;
+    box-sizing: border-box;
+    color: #052962;
+    display: block;
+    line-height: 1;
+    height: 1.8125rem;
+    padding: 0.375rem 0.6875rem 0;
+    margin-bottom: 0.375rem;
+    margin-right: 0.625rem;
+    position: relative;
+    float: left;
+}
+
+.inline-arrow-right{position:absolute;height:32px;width:32px;right:3px;top:50%;transform:translate(0, -50%);transition:transform .3s ease-in-out}
+
+.cta-bar__cta .inline-arrow-right {
+    position: absolute;
+    height: 2rem;
+    width: 2rem;
+    right: 0.1875rem;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    transition: -webkit-transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+.cta-bar__cta .inline-arrow-right {
+    margin: 0 -0.125rem 0 0;
+}
+
+.inline-icon {
+    fill: #ffffff;
+}
+
+.cta-bar__cta .inline-arrow-right__svg {
+    fill: currentColor;
+    height: 2rem;
+    width: 2rem;
+}
+
+.inline-icon svg {
+    overflow: visible;
+}
+
+a {
+    background: transparent;
+}
+
+.new-header__top-bar{position:absolute;left:10px;left:20px;left:auto;right:205px;right:266px}
+
+.top-bar__commercial-items{position:relative;float:left;margin-right:10px}
+
+.top-bar__item__seperator{border-left:1px solid #506991;position:absolute;left:0;top:0;height:24px}
+
+
+.top-bar__item{font-size:13px;line-height:18px;font-family:"Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;font-size:16px;color:#fff;float:left;line-height:1;padding-top:6px;position:relative;z-index:1072;padding-top:12px;padding:9px 6.66667px}.top-bar__item:hover,.top-bar__item:focus{color:#ffe500;text-decoration:none}
+
+.new-header__user-account-container{float:left;position:relative;z-index:1072}
+
+
+
+.top-bar__item__icon__svg {
+    fill: currentColor;
+    float: left;
+    height: 1.125rem;
+    width: 1.125rem;
+    margin: -0.0625rem 0.25rem 0 0;
+}
+
+.inline-icon svg {
+    overflow: visible;
+}
+
+.dropdown-menu-fallback {
+    display: none;
+}
+
+.weather__toggle-forecast {
+    position: absolute;
+    padding-left: 5rem;
+    padding-bottom: 0.75rem;
+    right: 0;
+    top: 0;
+}
+
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+
+.meta-button {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.inline-search-36__svg{fill:#fff;height:22px;width:22px}
+
+.popup--search {
+    background-color: #fff;
+    border-radius: 0.1875rem;
+    box-shadow: 0 0 0 0.0625rem rgba(0,0,0,0.1);
+    padding: 0.75rem 1.25rem 0;
+    top: 1.875rem;
+    z-index: 1071;
+    outline: 0;
+    left: auto;
+    right: 15.625rem;
+}
+
+.popup {
+    box-sizing: border-box;
+    position: absolute;
+    margin: 0;
+    list-style: none;
+    min-width: 8.75rem;
+}
+
+.popup--default {
+    background: #fff;
+    border-radius: 0.1875rem;
+    box-shadow: 0 0 0 0.0625rem rgba(0,0,0,0.1);
+    left: 0;
+    top: 2.6875rem;
+    padding: 0;
+}
+
+.is-off {
+    display: none;
+}
+
+.new-header__edition-container{position:absolute;top:0;z-index:1072;transform:translateX(100%);right:120px;width:110px}
+
+
+.edition-picker-toggle-button {
+    border: 0;
+    background: none;
+    text-align: left;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 1.875rem;
+    right: 0;
+    width: 13.75rem;
+    background-color: #fff;
+    border-radius: 0.1875rem;
+    padding: 0.375rem 0;
+    margin: 0;
+    box-shadow: 0 0 0 0.0625rem rgba(0,0,0,0.1);
+    z-index: 1073;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.pillars{clear:right;margin:0;padding:0 0 0 10px;padding-left:20px}
+
+.pillars__item{display:block;float:left;width:134px;text-align: -webkit-match-parent;}
+
+.pillar-link {
+    box-sizing: border-box;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-weight: 900;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 0.9625rem;
+    height: 2.25rem;
+    line-height: 1;
+    padding: 0.5625rem 0.3125rem 0;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.main-menu-toggle-button {
+    border: 0;
+    padding: 0;
+    background: none;
+}
+
+
+.new-header__menu-toggle {
+    display: block;
+    outline: 0;
+    position: relative;
+}
+
+.veggie-burger {
+    background-color: #ffe500;
+    cursor: pointer;
+    display: block;
+    height: 2.625rem;
+    width: 2.625rem;
+    position: relative;
+    border: 0;
+    border-radius: 50%;
+    outline: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    z-index: 1069;
+}
+
+.veggie-burger__icon, .veggie-burger__icon:before, .veggie-burger__icon:after {
+    background-color: currentColor;
+    content: '';
+    height: 0.125rem;
+    left: 0;
+    position: absolute;
+    width: 1.25rem;
+}
+
+.pillar-link--sections {
+    color: #fff;
+    font-weight: 300;
+    float: left;
+    padding-right: 0.3125rem;
+    transition: color 250ms ease-out;
+}
+
+.pillar-link--dropdown__icon {
+    border: 0.0625rem solid currentColor;
+    border-left: transparent;
+    border-top: transparent;
+    display: inline-block;
+    height: 0.375rem;
+    margin-left: 0.125rem;
+    -webkit-transform: translateY(-0.1875rem) rotate(45deg);
+    transform: translateY(-0.1875rem) rotate(45deg);
+    transition: -webkit-transform 250ms ease-out;
+    transition: transform 250ms ease-out;
+    transition: transform 250ms ease-out, -webkit-transform 250ms ease-out;
+    vertical-align: middle;
+    width: 0.375rem;
+}
+
+.menu__overlay {
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    transition: opacity 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+    width: 0;
+    z-index: 1069;
+}
+
+.menu {
+    background-color: #052962;
+    box-sizing: border-box;
+    font-size: 1.25rem;
+    left: 0;
+    line-height: 1;
+    margin-right: 1.6875rem;
+    padding-bottom: 1.5rem;
+    top: 0;
+    z-index: 1070;
+}
+
+.menu-group {
+    box-sizing: border-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 1.125rem;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0.75rem;
+    position: relative;
+}
+
+.menu-group--primary{padding-top:0;flex-direction:row;flex-wrap:nowrap;order:1}
+
+.menu-group--secondary{background-color:#041f4a;margin-top:0;padding-top:0;background-color:transparent;padding-bottom:0;width:100%}
+
+.menu-group--membership{padding-bottom:0;position:relative}
+
+.menu-group--footer{bottom:0;left:679px;padding-left:10px;position:absolute;top:0;width:134px}
+
+.menu-group--brand-extensions{position:absolute;right:30px;top:-42px;bottom:0;padding:42px 20px 12px 10px;width:131px}
+
+.menu-item {
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.menu-group--primary>.menu-item>.menu-item__title {
+    color: #fff;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-bottom: 1.125rem;
+    padding-top: 0.375rem;
+}
+
+.menu-item__toggle {
+    margin-top: -0.25rem;
+}
+
+.menu-item__title {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    background-color: transparent;
+    border: 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.25rem;
+    outline: none;
+    padding: 0.5rem 1.9375rem 0.5rem 3.125rem;
+    position: relative;
+    text-align: left;
+    width: 100%;
+}
+
+.subnav .gs-container {
+    box-sizing: border-box;
+    border: 0.0625rem solid #dcdcdc;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.subnav__list {
+    box-sizing: border-box;
+    line-height: 1;
+    list-style: none;
+    margin: 0;
+    max-width: calc(100% - 3.75rem);
+    padding: 0 0.3125rem;
+}
+
+.subnav__item:not(.subnav__item--toggle-more){display:block;float:left}
+
+.subnav-link {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #121212;
+    display: block;
+    height: 2.25rem;
+    line-height: 2.25rem;
+    padding: 0 0.3125rem;
+    position: relative;
+}
+
+.new-header__multiline {
+    background: #fff;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.fc-container--first{margin-top:0;padding-top:0;padding-top:6px}
+
+.fc-container, .facia-container {
+    position: relative;
+    padding-bottom: 0.75rem;
+    margin-bottom: 0;
+}
+
+
+
+.fc-container__inner{
+    overflow: hidden;
+    position: relative;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
+}
+
+.fc-container__header{
+    position: relative;
+}
+
+.header{
+	display:block;
+}
+
+.fc-container__header__title{
+    font-size: 1.375rem;
+    line-height: 1.75rem;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+    position: relative;
+    padding-bottom: 0.25rem;
+    line-height: 1.5rem;
+    color: #121212;
+    float:left;
+}
+
+.fc-today{font-size:16px;line-height:20px;font-family:"Guardian Egyptian Web",Georgia,serif;font-weight:normal;line-height:16px;font-weight:600;display:none;margin:4px 0 12px;display:block}
+
+.u-nobr{white-space:nowrap}
+.fc-today__sub{color:#c70000}
+
+.weather{font-size:18px;line-height:18px;font-family:"Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;position:relative;letter-spacing:-.035rem;display:flex;justify-content:flex-end}
+
+.u-unstyled{
+    margin: 0;
+    list-style: none;
+}
+.forecast__item{box-sizing:border-box;min-height:44px;padding:2px 10px 0 42px;position:relative;list-style: none;}
+.forecast__item:before {
+    border-left: 0.0625rem solid #dcdcdc;
+    bottom: 0.625rem;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.forecast {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+weather__time{font-size:12px;color:#767676}
+
+.weather__icon {
+    display: block;
+}
+
+.weather__icon>svg {
+    display: block;
+    width: 2rem;
+    height: 2rem;
+}
+
+.weather__location {
+    box-sizing: border-box;
+    -webkit-order: -1;
+    -ms-flex-order: -1;
+    order: -1;
+    position: relative;
+    width: 100%;
+}
+.search-tool__btn {
+    background-color: #052962;
+    border: 0;
+    width: 1.75rem;
+    height: 1.75rem;
+    display: none;
+}
+
+.fc-container__body, .container__body {
+    padding-top: 6px;
+    padding-bottom: 12px;
+    opacity: 1;
+    transition: opacity .25s linear;
+    padding-top: 3px;
+    clear: left
+}
+
+.fc-slice {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fc-slice-wrapper{padding-top:.01px;margin:0 -10px;clear:left}
+
+.fc-slice__item{margin-bottom:0;width:100%}
+
+.fc-item {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
+}
+
+.fc-item__container {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+}
+
+.fc-item .fc-item__media-wrapper {
+    position: relative;
+}
+
+.fc-item__media-wrapper {
+    box-sizing: border-box;
+}
+
+.u-responsive-ratio {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.fc-item__image-container {
+    box-sizing: border-box;
+    padding-left: 0.3125rem;
+}
+
+.fc-item__content {
+    box-sizing: border-box;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0.3125rem;
+    padding-right: 0.3125rem;
+}
+
+.fc-item__header {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    font-weight: 400;
+}
+
+
+.fc-item__kicker {
+    color: #c70000;
+    font-size:"2px";
+}
+
+.headline-text{
+	color:"black";
+}
+.fc-item__title {
+    padding-top: 0.0625rem;
+    padding-bottom: 0.125rem;
+    word-wrap: break-word;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+.fc-item__standfirst-wrapper {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    padding-bottom: 0;
+}
+
+.fc-item__standfirst {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-family: "Guardian Text Egyptian Web",Georgia,serif;
+    font-size: 0.8125rem;
+    line-height: 1rem;
+    color: #767676;
+    display: none;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding-right: 0.3125rem;
+}
+
+.fc-item__footer--horizontal{display:block;padding-left:5px;padding-right:5px}
+
+.fc-sublink {
+	display: flex;
+    position: relative;
+    padding-top: 0.1875rem;
+    margin: 0 0 0.5625rem 0;
+    color:inherit;
+}
+
+.fc-sublink__title {
+    font-size: 0.875rem;
+    line-height: 1.125rem;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-weight: normal;
+    color: #121212;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+}
+
+.fc-sublink--pillar-news .fc-sublink__kicker {
+    color: #c70000;
+}
+.fc-sublink__title .fc-sublink__kicker {
+    float: left;
+    margin-right: .2em;
+    font-weight: 700;
+}
+
+.fc-item a {
+    color: inherit;
+}
